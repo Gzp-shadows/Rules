@@ -1,0 +1,17 @@
+SSH登录openwrt后，把Json文件上传到根目录
+把Json文件改好名后运行
+sing-box rule-set compile --output /rules.srs /rules.json
+
+
+进行转换
+转换后再上传到Github提取远程地址
+
+
+
+
+自定义规则集json格式检查对错：https://www.json.cn/
+
+规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
+
+
+https://raw.githubusercontent.com/qcyhub/rule/master/config/singbox/config_tun.json
