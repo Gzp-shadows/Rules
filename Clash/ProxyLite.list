@@ -63,6 +63,7 @@ DOMAIN,store.steampowered.com
 DOMAIN,renzhesub.com
 DOMAIN,renzheapi.com
 DOMAIN,emby.medi4.org
+DOMAIN,themoviedb.org
 
 
 # IP段匹配
